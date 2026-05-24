@@ -5,6 +5,8 @@
 }
   body {
     background-color: #00FDFD;
+    margin:0;
+    padding:0;  
     width: 100vw;
   }
   .container {
