@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+  body {
+    background-color: #00FDFD;
+    width: 100vw;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: top;
+    flex-direction: column;
+    background-color: #00FDFD;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+  }
+  .card_wrapper {
+    position: relative;
+  }
+  .card {
+    position: relative;
+  }
+  .image_svg_mask {
+   width: 100vw;
+   height: 100vh;
+   background-image: url("/img/banner.gif");
+   background-position:0%;
+   background-repeat: no-repeat;
+   bckground-size:cover;
+   background-attachment: scroll;
+   position:relative;
+
+  }
+
+
+
+/
